@@ -1,0 +1,64 @@
+.encabezado {
+    height: 400px;
+    background-image: url(https://cdn.glitch.global/507d58ed-24b3-4458-91a0-a7ea2b6148fa/amy-hirschi-JaoVGh5aJ3E-unsplash.jpg?v=1677557131674);
+    color: white;
+    background-size: center;
+    background-position: center;
+    background-color: rgba(0, 0,0,0.5);
+    background-blend-mode: darken;
+}
+
+*{
+    text-indent: 0 !important;
+}
+body{
+    /**font-family: helvetica, arial, sans-serif;
+    */
+    font-family: 'Noto Sans', sans-serif;
+    margin-top: 0cm ;
+    text-indent: 0.5cm;
+    
+  }
+  .card{
+    box-shadow: 0 4px 6px -1px  rgba(0,0,0,1), 0 2px 4px -1px rgba(0,0,0,0.06);
+  }
+
+  .imagenCuerpo {
+    height: 400px;
+    background-image: url(https://cdn.glitch.global/507d58ed-24b3-4458-91a0-a7ea2b6148fa/lampara.jpg?v=1676059763919);
+    color: white;
+    background-size: center;
+    background-position: center;
+    background-color: rgba(0, 0,0,0.5);
+    background-blend-mode: normal;
+  }
+ .video-youtube{
+  height: 0px;
+  padding-bottom: 56.25%;
+  position: relative;
+ }
+
+ .video-youtube iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+ }
+ .youtube-arreglo{
+  width: 50%;
+  margin:auto;
+  box-shadow: 0 4px 6px -1px  rgba(0,0,0,1), 0 2px 4px -1px rgba(0,0,0,0.06);
+ }
+
+ .espacio1{
+  border:3px solid;
+ }
+
+ h2{
+  text-indent: 0 !important;
+ }
+
+ p{
+  font-family: 'Roboto', sans-serif !important; 
+ }
